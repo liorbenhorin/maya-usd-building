@@ -15,3 +15,6 @@ _Note the forward slashes in the build.py arguments_
 
 To allow maya to load the plug-ins, we have to add this into maya.env
 ```MAYA_MODULE_PATH=D:\development\USD_DEV\build\maya-usd\RelWithDebInfo```
+
+## Currently there is no luck here
+The build is successful, and plug-ins load in Maya, but the plugin carashes when attempting to import usd into Maya
