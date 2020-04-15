@@ -19,7 +19,7 @@ The instructions are all very clear and should be followed to the latter.
 - No other python should be in the PATH
 - Pip install the following:
 
-``$ pip install pyd PySide PyOpenGL PyOpenGL_accelerate``
+``$ pip install pyd PySide PyOpenGL PyOpenGL_accelerate Jinja2``
 
 - when calling buil-usd.py, we will need to pass the following arguments for it to be able to build "boost" successfully: [https://github.com/Autodesk/maya-usd/blob/dev/doc/build.md#additional-build-instruction]()
 
